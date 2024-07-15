@@ -3,7 +3,7 @@ import { Checkbox, Panel, DefaultButton, TextField, ITextFieldProps, ICheckboxPr
 import { SparkleFilled } from "@fluentui/react-icons";
 import { useId } from "@fluentui/react-hooks";
 import readNDJSONStream from "ndjson-readablestream";
-import vs from "/workspaces/azure-search-openai-demo/app/frontend/src/assets/vs.webp";
+import vs from "/workspaces/azure-search-openai-demo/app/frontend/src/assets/vs.png";
 import styles from "./Chat.module.css";
 
 import {
